@@ -1,1 +1,1 @@
-# This repository belongs to Matthew Liang and contains weekly blogs written by Matthew Liang for a course in Open Source software development.
+# This repository belongs to Matthew Liang and contains weekly blogs Open Source software development course.
