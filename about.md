@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+My name is Matthew Liang and I am currently a undergradute student at Hunter College pursueing a Computer Science degree.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am more focused on web development. 
 
