@@ -21,8 +21,8 @@ following the same syntax.
 
 
 
-| Week #       | Contribution (Link)  | Type  | Description |
+| Week #        | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
+|  3   | [link to contribtuion](https://www.openstreetmap.org/changeset/81034016)   |   I updated a house on openstreetmaps  |      |
 |     |     |     |      |
