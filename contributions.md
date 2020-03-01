@@ -25,4 +25,4 @@ following the same syntax.
 |---|:---|:---|:---|
 |  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
 |  3   | [link to contribtuion](https://www.openstreetmap.org/changeset/81034016)   |   I updated a house on openstreetmaps  |  I deleted a house on openstreetmaps, and added two in its place. I know this because I live around the neighborhood     |
-|  4  |  [link to contribution](https://www.openstreetmap.org/changeset/81383560)   |   Open Street maps contribution  |   I added some more information about a bus stop near in my neighborhood   |
+|  4  |  [link to contribution](https://www.openstreetmap.org/changeset/81383560)   |   Open Street maps contribution  |   I added some more information about a bus stop near my neighborhood   |
