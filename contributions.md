@@ -31,3 +31,7 @@ following the same syntax.
 |  7  |  [link to contribution](https://www.openstreetmap.org/changeset/82634020)   |   Open Street maps contribution  |  I added a optical store in 8th avenue brooklyn.  |
 |  8  |  [link to contribution](https://en.wikipedia.org/w/index.php?title=Interstellar_(film)&oldid=948552578)   |   Wikipedia contribution  |  I added more details and fixed grammar mistakes in the plot section of the movie Interstellar  |
 |  9  |  [link to contribution](https://en.wikipedia.org/w/index.php?title=Fractured_(2019_film)&oldid=949230141)   |   Wikipedia contribution  |  I added more details into the plot section for the movie Fractured |
+|  10  |  [link to contribution](https://en.wikipedia.org/w/index.php?title=Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2&oldid=953180620)   |   Wikipedia contribution  |  I added more details into the plot section for the movie Harry Potter and the Deathly Hallows – Part 2 |
+
+
+
