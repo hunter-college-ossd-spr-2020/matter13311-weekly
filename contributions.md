@@ -37,7 +37,7 @@ following the same syntax.
 |  13  |  [link to contribution](https://gitlab.com/Ks5810/inkscape/-/commit/0800d1d913d05b2896dc5d690de2720a6a67cf5d)   |   Inkscape contribution  |  Attempted to update the INSTALL.MD again since last time, I got the pipeline failed error, but with the help of Keisuke. I also added more detail into the install.md |
 |  14  |  [link to contribution](https://gitlab.com/matter13311/inkscape-web/-/commit/8691c9a02e0a9049d18a4032be4b34f902a67c74)   |   Inkscape contribution  |  On Inkscape-web gitlab page, their readme isn't even a markdown file. I deleted the old readme filed, and replaced it with a new readme.md, but with better styling and more details|
 |  15  |  [link to contribution](https://gitlab.com/matter13311/inkscape-web/-/commit/7742dd814b058ecd68134fe087cb7c352f752a8d)   |   Inkscape contribution  |  On Inkscape-web, I noticed there wasn't a contributing.md document, informing users how they can contribute. I created a new contributing.md file and populated it with details on how someone can contribute to inkscape-web|
-
+|  16  |  [link to contribution](https://en.wikipedia.org/w/index.php?title=Extraction_(2020_film)&oldid=955429714)   |   Wikipedia Contribution  |  I added a lot more detail to the wikipedia plot for the 2020 movie, Extraction. Great movie |
 
 
 
